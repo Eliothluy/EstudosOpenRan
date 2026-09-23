@@ -1,0 +1,7 @@
+# Cache / ferramentas locais — não subir
+.omo/
+.codegraph
+
+# Obsidian: manter config do vault, ignorar cache de workspace
+.obsidian/workspace.json
+.obsidian/hotkeys.json
