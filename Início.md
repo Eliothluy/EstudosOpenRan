@@ -12,12 +12,13 @@
 
 **Fichamento:** Polese, Bonati, D'Oro, Basagni, Melodia. *IEEE Communications Surveys & Tutorials*, vol. 25, nº 2, 2023.
 DOI: [10.1109/COMST.2023.3239220](https://doi.org/10.1109/COMST.2023.3239220) · [arXiv 2202.01032](https://arxiv.org/abs/2202.01032)
+**Notas de estudo:** [[2023 Polese - Understanding O-RAN (notas de estudo)]] — ideias-chave, figuras, siglas e perguntas de revisão por seção
 
 **Progresso da tradução:**
 - [x] Resumo
 - [x] Introdução
-- [ ] De 3GPP ao O-RAN (contexto e desagregação)
-- [ ] Arquitetura O-RAN (RIC, O-CU, O-DU, O-RU)
+- [x] De 3GPP ao O-RAN (contexto e desagregação)
+- [x] Arquitetura O-RAN (RIC, O-CU, O-DU, O-RU)
 - [ ] Interfaces (Open Fronthaul, E2, A1, O1)
 - [ ] Workflows: xApps, rApps e ML
 - [ ] Casos de uso
