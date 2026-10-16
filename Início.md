@@ -19,7 +19,9 @@ DOI: [10.1109/COMST.2023.3239220](https://doi.org/10.1109/COMST.2023.3239220) ·
 - [x] Introdução
 - [x] De 3GPP ao O-RAN (contexto e desagregação)
 - [x] Arquitetura O-RAN (RIC, O-CU, O-DU, O-RU)
-- [ ] Interfaces (Open Fronthaul, E2, A1, O1)
+- [x] Near-RT RIC e xApps (componentes internos, ciclo de vida e implementações de código aberto)
+- [x] Non-RT RIC e SMO (orquestração, rApps e implementações de código aberto)
+- [x] Interfaces (Open Fronthaul, E2, A1, O1)
 - [ ] Workflows: xApps, rApps e ML
 - [ ] Casos de uso
 - [ ] Segurança
