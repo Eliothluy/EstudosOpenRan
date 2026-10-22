@@ -39,4 +39,4 @@ Vault Obsidian de estudo pessoal sobre O-RAN, em português (pt-BR). **É uma pa
 - Textos colados podem trazer caracteres invisíveis (zero-width, espaços duplos) — verificar ao revisar.
 - Artefatos vazios versionados na raiz (`2026-10-07.md`, `Sem título*.canvas`, `Sem título*.base`) são ruído do Obsidian: não tratar como conteúdo nem criar mais.
 - A nota em `Ideias/` tem uma seção de estudo anexada em revisão antiga; é histórico, não é o padrão a repetir.
-- Git: branch `main` com remote `origin`. **Nada é ignorado**: não existe `.gitignore` e o `.obsidian/` inteiro (incluindo `workspace.json`) é versionado. Commitar apenas quando pedido, com mensagem descritiva em pt-BR.
+- Git: branch `main` com remote `origin`; `.obsidian/` é versionado, exceto `workspace.json`/`hotkeys.json` (estado local, ignorado). Commitar apenas quando pedido, com mensagem descritiva em pt-BR.
